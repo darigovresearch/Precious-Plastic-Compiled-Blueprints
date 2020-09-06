@@ -27,3 +27,15 @@ This work was based on the work ***Precious plastic kit*** by [Stichting One Arm
 To see this work in full go to https://github.com/ONEARMY/precious-plastic-kit
 
 To see their license and disclaimer go to https://github.com/ONEARMY/precious-plastic-kit/blob/master/0.%20Start/License%20%26%20Disclaimer%20.pdf
+
+----
+
+<b>
+<div align="center">
+    The creation, maintenance and continued development of this project is made possible
+    <br>
+    thanks to our <a href="http://patreon.com/darigovresearch">Patreon</a> and <a href="https://www.darigovresearch.com/donate">Direct</a> supporters!
+    <br>
+    Consider joining them if you think this project has earned it!
+</div>
+</b>
